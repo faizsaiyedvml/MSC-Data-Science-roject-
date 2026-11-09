@@ -1,0 +1,14 @@
+# Kaggle's libraries mlflow
+numpy
+pandas
+scipy
+scikit-learn>=1.3
+statsmodels
+xgboost>=2.0
+shap>=0.44
+tensorflow>=2.15
+matplotlib
+requests
+joblib
+mlflow
+pytest
